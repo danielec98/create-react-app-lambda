@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+
+html{
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
+.card{
+  background-color: rgba(0,0,0, 0.1) !important;
+  border-radius:10px !important;
+  margin:0px auto !important;
+  justify-content: center !important;
+  border: none !important;
+}
+
+
+.main{
+  margin:0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Fira Sans', sans-serif; 
+    position:fixed;
+    overflow:auto;  
+    background-image: linear-gradient(315deg, #d9d9d9 0%, #f6f2f2 74%);
+  }
+
+.Nav{
+  font-family: 'Fira Sans', sans-serif;
+  margin-left:auto;
+}
+
+.form-control{
+  background-color: rgba(255,255,255, 0.3) !important;
+  border:none !important;
+  border-radius:10px !important;
+}
+
+.form-control:focus {
+  border-color: #850202 !important;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 0 8px #850202 !important;
+}
+
+.form-group{
+  margin:5px;
+  width: 98%; 
+  margin-top : -7px;
+}
+
+label{
+  padding-left:3px
+}
+
+.form-row{
+  justify-content: center !important;
+  width:100% !important;
+  flex-wrap: nowrap !important;
+  display: flex !important;
+  margin:0 !important
+}
+
+.nlink{
+  color:black;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+}
+
+.nlink:hover{
+  color: #3E3F41;
+  text-decoration: none;
+}
+
+.Form{
+  display:flex;
+  justify-content: center;
+  padding:30px;
+}
+
+.card-header{
+  text-align:center;
+  background-color: #292b2c !important;
+  color:white;
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+
+}
+
+.btn-dark{
+  width: 40% !important;
+  border-radius: 10px !important;
+  min-width:100px !important;
+}
+
+.LoginLinks{
+  text-align:center;
+}
+
+.LogLink{
+  color:#850202;
+}
+
+.LogLink:hover{
+  text-decoration: none;
+  color:#a12020;
+}
+
+.bg-dark{
+  background-color: black !important;
+}
+
+.navbar-expand{
+flex-flow:wrap !important;
+}
+
+label{
+  display:inline !important;
+}
+
+.label{
+  padding-right: 10px;
+}
+.DateRangePicker{
+  margin : 13px;
+ 
+}
+.homeform{
+
+  padding-top: 40px;
+}
+
+.homeCard{
+  
+  -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+-moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+width: 70% !important;
+
+}
+.ricercaCard{
+  -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+-moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+width: 70% !important;
+
+}
+.ricercadiv{
+  position: relative;
+  top:50px;
+  
+}

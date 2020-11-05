@@ -1,0 +1,36 @@
+.RisultatiCard{
+    width:65%;
+}
+
+.risultatiRow{
+    width:100%;
+    display:flex;
+}
+
+.imgCol{
+    padding:10px;
+}
+
+.risultatiCol{
+    width:100%;
+}
+
+.Descrizione{
+    font-size:20px;
+}
+
+.ricercadiv{
+    padding:10px;
+}
+
+.DateRangePickerInput {
+    background: #e4e2e2;
+  }
+
+  .DateInput_input {
+      background-color: #e4e2e2;
+    color: #495057 !important;
+
+
+  }
+

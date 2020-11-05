@@ -1,0 +1,36 @@
+.LoginCard{
+    -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  -moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  width:400px;
+  
+  }
+
+.fix{
+    margin-left:auto !important;
+    margin-right:auto !important;
+    margin:5px;
+    margin-top : -7px;
+  }
+  
+.btnAlign{
+    text-align: center;
+    padding-top:10px;
+  }
+
+  .btnLogin{
+    text-align: center;
+    padding-top:10px;
+    display:flex !important;
+    justify-content: center;
+  }
+
+.LoginForm{
+    padding-top:130px !important;
+    display:flex !important;
+    padding:20px;
+}
+
+.EmailLabel{
+padding-top:20px;
+}

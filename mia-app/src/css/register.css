@@ -1,0 +1,71 @@
+.RegisterCard{
+    -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  -moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  width:550px;
+  }
+  
+  .fix{
+    margin-left:auto !important;
+    margin-right:auto !important;
+    margin:5px;
+    margin-top : -7px;
+  }
+
+  
+.Tipo{
+    text-align: center;
+    margin:auto;
+    width:80%;
+    padding-bottom:8px;
+  }
+  
+  .btnAlignReg{
+    text-align: center;
+    padding-top:3px;
+  }
+
+  .formData{
+    min-width: 0px !important;
+  }
+  
+  .capSize{
+    width:30%;
+  }
+  
+  .QuesturaCard{
+    width:65%;
+    }
+    
+  .datiufficio{
+    margin:0;
+      width: 100%;
+      height: 100%;
+      font-family: 'Fira Sans', sans-serif; 
+      position: relative;  
+    }
+  
+    .FormUfficio{
+      display:flex;
+      justify-content: center;
+      padding:15px;
+    }
+
+    .DatiCard{
+      width:65%;
+      -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+    -moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+    box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  
+    }
+  
+    .btnAlignDati{
+      text-align: center;
+      padding-top:3px;
+      padding-bottom:30px;
+    }
+  
+    .btnDati{
+      width:15% !important;
+    }
+    

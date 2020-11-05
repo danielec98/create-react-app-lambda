@@ -1,0 +1,15 @@
+.funzioniGestore{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    padding-top:30px;
+    font-family: 'Fira Sans', sans-serif;
+}
+  .btnGestore{
+      margin:30px !important;
+      border-radius: 100px !important;
+      height:150px !important;
+      width:150px !important;
+  }

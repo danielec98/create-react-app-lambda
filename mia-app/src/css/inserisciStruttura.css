@@ -1,0 +1,46 @@
+.inserisciStrutturaCard{
+    width:65%;
+    -webkit-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  -moz-box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+  box-shadow: 0px 0px 38px 3px rgba(0,0,0,0.27);
+}
+
+.InserisciStruttura{
+    padding-top:65px !important;
+    justify-content: center !important;
+    display:flex;
+}
+
+.StrutturaCardBody{
+    justify-content: center !important;
+    display:flex;
+}
+
+.formDescrizione{
+    width:100%;
+}
+
+.filtriStruttura{
+    width:100%;
+    padding-top:5px;
+}
+
+.filtersCheck{
+    padding-left:20px;
+    padding-right:20px;
+    margin-top:-10px;
+    margin-bottom:20px;
+}
+
+.imgfile{
+    justify-content: center;
+    display: flex;
+}
+
+.formSize{
+    width:15%;
+}
+
+.formSize1{
+    width:20%;
+}
